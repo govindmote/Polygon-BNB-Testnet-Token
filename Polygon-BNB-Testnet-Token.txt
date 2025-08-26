@@ -1,0 +1,11 @@
+Polygon-BNB-Testnet-Token/
+│
+├── contracts/
+│   └── MyToken.sol         # Your ERC20/BEP20 token contract
+│
+├── screenshots/
+│   ├── metamask.png        # MetaMask screenshot
+│   └── explorer.png        # Token deployed explorer screenshot
+│
+├── README.md               # Documentation
+└── LICENSE                 # (Optional)
